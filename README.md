@@ -1,2 +1,2 @@
-# projects
-Blog for helping people start with and complete projects
+# TuriCreateBlog
+A blog to help people learn machine vision using Apple's TuriCreate API
